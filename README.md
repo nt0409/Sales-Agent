@@ -13,3 +13,5 @@ Copy
 Edit
 **rm -rf auth/**
 Then re-run your bot to re-scan the QR code and re-establish a new session
+
+**In wa.js file, at the following point enter the number you want to send the message on '91 @s.whatsapp.net', // replace with your target number**
