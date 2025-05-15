@@ -11,5 +11,5 @@ Delete the auth/ folder:
 bash
 Copy
 Edit
-rm -rf auth/
+**rm -rf auth/**
 Then re-run your bot to re-scan the QR code and re-establish a new session
