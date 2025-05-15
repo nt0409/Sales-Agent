@@ -27,7 +27,7 @@ async function startWhatsAppBot() {
       // Send a test message
       console.log("✅ Sending message to '919123456789@s.whatsapp.net'...");
       await sock.sendMessage(
-        '919967425350@s.whatsapp.net', // replace with your target number
+        '91 @s.whatsapp.net', // replace with your target number
         { text: 'Hello! I’m your AI assistant.' }
       );
       console.log("✅ Message sent!");
